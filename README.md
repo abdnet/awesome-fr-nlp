@@ -11,6 +11,9 @@
 
 [Back to Top](#contents)
 
+- [CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
+- [Spacy](https://spacy.io/models/fr)
+
 ## Datasets
 
 [Back to Top](#contents)
