@@ -15,6 +15,10 @@
 
 [Back to Top](#contents)
 
+### NER
+
+- [Wikiner](https://github.com/dice-group/FOX/tree/master/input/Wikiner):Learning multilingual named entity recognition from {Wikipedia}
+
 ## Tools
 
 [Back to Top](#contents)
