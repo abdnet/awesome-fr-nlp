@@ -5,6 +5,7 @@
 - [Libraries](#libraries)
 - [Datasets](#datasets)
 - [Tools](#tools)
+- [Resources](#resources)
 - [Credits](#credits)
 
 ## Libraries
@@ -23,6 +24,12 @@
 - [Wikiner](https://github.com/dice-group/FOX/tree/master/input/Wikiner):Learning multilingual named entity recognition from {Wikipedia}
 
 ## Tools
+
+[Back to Top](#contents)
+
+## Resources
+
+- [RALI](http://rali.iro.umontreal.ca/rali/?q=en/Textual%20Resources) laboratory : (Recherche appliquée en linguistique informatique – Applied research in computational liguistics)
 
 [Back to Top](#contents)
 
