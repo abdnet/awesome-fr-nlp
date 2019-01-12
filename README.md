@@ -14,6 +14,7 @@
 
 - [CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 - [Spacy](https://spacy.io/models/fr)
+- [OpenNLP](https://opennlp.apache.org/),[Apache OpenNLP models for processing French](https://sites.google.com/site/nicolashernandez/resources/opennlp)
 
 ## Datasets
 
