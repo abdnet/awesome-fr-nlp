@@ -21,6 +21,7 @@
 [Back to Top](#contents)
 
 - [The WOLF](http://pauillac.inria.fr/~sagot/index.html#wolf): (Wordnet Libre du Français, Free French Wordnet)
+- [WoNeF](https://wonef.fr/) · WordNet du Français
 
 ### NER
 
