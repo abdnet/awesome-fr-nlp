@@ -14,11 +14,13 @@
 
 - [CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 - [Spacy](https://spacy.io/models/fr)
-- [OpenNLP](https://opennlp.apache.org/),[Apache OpenNLP models for processing French](https://sites.google.com/site/nicolashernandez/resources/opennlp)
+- [OpenNLP](https://opennlp.apache.org/): [models for processing French](https://sites.google.com/site/nicolashernandez/resources/opennlp)
 
 ## Datasets
 
 [Back to Top](#contents)
+
+- [The WOLF](http://pauillac.inria.fr/~sagot/index.html#wolf): (Wordnet Libre du Français, Free French Wordnet)
 
 ### NER
 
