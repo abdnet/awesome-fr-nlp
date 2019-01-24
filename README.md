@@ -4,6 +4,7 @@
 ## Contents
 - [Libraries](#libraries)
 - [Datasets](#datasets)
+	- [NER](#ner)
 - [Tools](#tools)
 - [Resources](#resources)
 - [Credits](#credits)
