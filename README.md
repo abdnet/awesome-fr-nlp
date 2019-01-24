@@ -21,11 +21,12 @@
 [Back to Top](#contents)
 
 - [The WOLF](http://pauillac.inria.fr/~sagot/index.html#wolf): (Wordnet Libre du Français, Free French Wordnet)
-- [WoNeF](https://wonef.fr/) · WordNet du Français
+- [WoNeF](https://wonef.fr/) : WordNet du Français
+- [frwiki](https://dumps.wikimedia.org/frwiki/latest/) : Wikipedia dumps
 
 ### NER
 
-- [Wikiner](https://github.com/dice-group/FOX/tree/master/input/Wikiner):Learning multilingual named entity recognition from {Wikipedia}
+- [Wikiner](https://github.com/dice-group/FOX/tree/master/input/Wikiner): Learning multilingual named entity recognition from {Wikipedia}
 
 ## Tools
 
@@ -33,7 +34,7 @@
 
 ## Resources
 
-- [RALI](http://rali.iro.umontreal.ca/rali/?q=en/Textual%20Resources) laboratory : (Recherche appliquée en linguistique informatique – Applied research in computational liguistics)
+- [RALI](http://rali.iro.umontreal.ca/rali/?q=en/Textual%20Resources) laboratory (Recherche appliquée en linguistique informatique – Applied research in computational liguistics)
 
 [Back to Top](#contents)
 
